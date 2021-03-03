@@ -1,13 +1,14 @@
 import React, { Component } from "react";
+import { render } from "react-dom";
+
 import { AFrameRenderer, Marker } from "react-web-ar";
 
-class App extends Component {
-  state = {};
+class ReactArApp extends Component {
   render() {
     return (
       <AFrameRenderer
         arToolKit={{
-          sourceType: "webcam",
+          sourceType: "image",
           sourceUrl: "./images/hiro_marker.png",
         }}
         stats
@@ -33,4 +34,5 @@ class App extends Component {
   }
 }
 
-export default App;
+render(<ReactArApp />, document.getElementById("root"));
+export default ReactArApp;
