@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/AnmolkumarShah/aframe-react-example/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/AnmolkumarShah/aframe-react-example/static/js/main.91558e2a.chunk.js",
-    "main.js.map": "/AnmolkumarShah/aframe-react-example/static/js/main.91558e2a.chunk.js.map",
-    "runtime-main.js": "/AnmolkumarShah/aframe-react-example/static/js/runtime-main.fd71b2d5.js",
-    "runtime-main.js.map": "/AnmolkumarShah/aframe-react-example/static/js/runtime-main.fd71b2d5.js.map",
-    "static/js/2.f87c1acf.chunk.js": "/AnmolkumarShah/aframe-react-example/static/js/2.f87c1acf.chunk.js",
-    "static/js/2.f87c1acf.chunk.js.map": "/AnmolkumarShah/aframe-react-example/static/js/2.f87c1acf.chunk.js.map",
-    "static/js/3.8fd10873.chunk.js": "/AnmolkumarShah/aframe-react-example/static/js/3.8fd10873.chunk.js",
-    "static/js/3.8fd10873.chunk.js.map": "/AnmolkumarShah/aframe-react-example/static/js/3.8fd10873.chunk.js.map",
-    "index.html": "/AnmolkumarShah/aframe-react-example/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/AnmolkumarShah/aframe-react-example/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.f87c1acf.chunk.js.LICENSE.txt": "/AnmolkumarShah/aframe-react-example/static/js/2.f87c1acf.chunk.js.LICENSE.txt"
+    "main.css": "/anmolkumarShah/aframe-react-example/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/anmolkumarShah/aframe-react-example/static/js/main.91558e2a.chunk.js",
+    "main.js.map": "/anmolkumarShah/aframe-react-example/static/js/main.91558e2a.chunk.js.map",
+    "runtime-main.js": "/anmolkumarShah/aframe-react-example/static/js/runtime-main.73a60bc3.js",
+    "runtime-main.js.map": "/anmolkumarShah/aframe-react-example/static/js/runtime-main.73a60bc3.js.map",
+    "static/js/2.f87c1acf.chunk.js": "/anmolkumarShah/aframe-react-example/static/js/2.f87c1acf.chunk.js",
+    "static/js/2.f87c1acf.chunk.js.map": "/anmolkumarShah/aframe-react-example/static/js/2.f87c1acf.chunk.js.map",
+    "static/js/3.8fd10873.chunk.js": "/anmolkumarShah/aframe-react-example/static/js/3.8fd10873.chunk.js",
+    "static/js/3.8fd10873.chunk.js.map": "/anmolkumarShah/aframe-react-example/static/js/3.8fd10873.chunk.js.map",
+    "index.html": "/anmolkumarShah/aframe-react-example/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/anmolkumarShah/aframe-react-example/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.f87c1acf.chunk.js.LICENSE.txt": "/anmolkumarShah/aframe-react-example/static/js/2.f87c1acf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fd71b2d5.js",
+    "static/js/runtime-main.73a60bc3.js",
     "static/js/2.f87c1acf.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.91558e2a.chunk.js"
